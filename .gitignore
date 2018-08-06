@@ -26,4 +26,5 @@ yarn-error.log*
 
 .idea
 package-lock.json
+app/public/shortid/package-lock.json
 
