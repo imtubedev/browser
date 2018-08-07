@@ -12,6 +12,7 @@ mqtt/node_modules
 
 # production
 /build
+/app
 
 # misc
 .DS_Store
